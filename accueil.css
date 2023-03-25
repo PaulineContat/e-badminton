@@ -1,0 +1,14 @@
+
+section {
+    text-align: center;
+    margin: 50px 0;
+}
+
+/* Mise en forme du titre */
+#welcome {
+    color: #fff; /* couleur du texte */
+    font-size: 20px; /* taille de la police */
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lato', sans-serif; /* famille de police */
+}

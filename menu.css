@@ -1,0 +1,96 @@
+header h1 {
+    text-align: left;
+    margin: 0;
+    padding: 20px;
+    font-size: 20px; /* taille de la police */
+    font-weight: bold; /* poids de la police */
+    font-family: 'Cardo', serif; /* famille de police */
+    color: #fff; /* couleur du texte */
+}
+
+header img {
+  float: left; /* pour positionner l'image à gauche du texte */
+  width: 50px; /* largeur de l'image */
+  height: 50px; /* hauteur de l'image */
+  margin-right: 10px; /* marge droite pour séparer l'image et le texte */
+}
+
+
+/* Mise en forme de la page */
+body {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    background-color: #1e1e1e; /* couleur de fond */
+    color: #fff; /* couleur du texte */
+}
+
+h1 {
+    margin: 0;
+    font-size: 20px; /* taille de la police */
+    font-weight: bold; /* poids de la police */
+    font-family: 'Cardo', serif; /* famille de police */
+    padding: 10px;
+}
+
+nav {
+    background-color: #333; /* couleur de fond */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li {
+    margin-right: 30px;
+}
+
+nav.menu a {
+    text-decoration: none;
+    color: white; /* couleur des textes */
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 30px; /* forme des boutons */
+    transition: background-color 0.5s ease;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif; /* famille de police */
+}
+
+nav.menu a:hover {
+    background-color: #f2f2f2; /* couleur de fond lors du hover */
+    color: #333;
+}
+
+nav.menu a.active {
+    background-color: #f2f2f2; /* couleur de fond pour le bouton actif */
+    color: #333;
+}
+
+a.bouton {
+    text-decoration: none;
+    padding: 7px 14px;
+    border-radius: 5px;
+   font-size: 12px; /* taille de police réduite */
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: white;
+    background-color: #333;
+    border: none;
+    transition: all 0.2s ease-in-out;
+}
+
+a.bouton:hover {
+    background-color: #555;
+    cursor: pointer;
+}
+
+table td.actions {
+    text-align: left;
+}

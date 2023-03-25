@@ -1,0 +1,45 @@
+table.tftable {
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    border-width: 1px;
+    border-color: #fff;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.tftable th {
+    font-weight: bold;
+    background-color: #333; /* couleur de fond des en-têtes */
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #fff;
+    text-align: center;
+}
+
+table.tftable tr {
+    background-color: #1e1e1e; /* couleur de fond des lignes */
+}
+
+
+table.tftable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #fff;
+    text-align: center;
+    overflow: hidden;
+    max-width: 100px;
+    max-height: 100px;
+    object-fit: contain;
+}
+
+.error-message {
+    font-size: 18px;
+    color: red;
+    text-align: center;
+    margin: 20px 0;
+}
+
+

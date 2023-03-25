@@ -1,0 +1,16 @@
+URL : https://e-badminton.000webhostapp.com/ajoutRencontreLieu.php
+
+username : identifiant
+password : mdp
+
+L'application est fonctionnelle en local, mais sur 000webhostapp on ne peut pas effectuer d'actions et je n'ai pas eu le temps d'en trouver
+la cause pour les raisons suivantes.
+Je n'ai eu aucun soutien de mon coéquipier Lucas Fejzovski qui n'a pas effectué les tâches que nous avions réparties, malgré de nombreuses 
+relances de ma part. Ne me répondant qu'occasionnellement et me faisant espérer qu'il allait rendre ses parties, 
+j'ai du finaliser le travail en urgence en réalisant en catastrophe que son travail ne serait pas fait, 
+ce qui ne m'a pas laissé le temps de corriger les derniers problèmes. Sans travail fonctionnel rendu de sa part, 
+l'ensemble de l'application qui est présentée est le fruit de mon travail. 
+Je m'excuse pour ces problèmes que j'ai essayé d'éviter tout le long et comme vous le voyez jusqu'à la dernière heure, 
+et je vous remercie de votre compréhension.
+
+Pauline Contat
